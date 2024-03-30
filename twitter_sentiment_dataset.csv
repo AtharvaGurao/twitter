@@ -1,0 +1,1201 @@
+Name,Tweet,Sentiment
+James,I'm feeling overwhelmed.,0
+Sophia,I'm feeling optimistic about everything.,1
+Daniel,I'm feeling neither happy nor sad.,2
+Sophia,I'm feeling neither happy nor sad.,2
+Sophia,The food at that restaurant was fantastic.,1
+Alice,I'm in a bad mood.,0
+Bob,I'm going to the grocery store.,2
+James,Today is neither good nor bad.,2
+James,This vacation was exactly what I needed.,1
+John,I'm feeling so happy right now.,1
+Emily,It's a standard day.,2
+Daniel,I'm feeling sick.,0
+Michael,I got promoted at work amazing!,1
+John,I'm enjoying every moment.,1
+Sophia,I'm feeling neither happy nor sad.,2
+Daniel,I'm feeling really anxious.,0
+Emily,I don't have strong feelings either way.,2
+Olivia,I'm feeling sick.,0
+Olivia,Life is good fantastic!,1
+Emma,I had a terrible day.,0
+James,I'm enjoying every moment.,1
+Daniel,I'm disappointed with the results.,0
+Emily,Just going through the motions.,2
+John,It's raining outside.,2
+John,It's just another typical day.,2
+Olivia,I'm feeling really anxious.,0
+Sophia,I'm feeling sick.,0
+Michael,I'm feeling neither happy nor sad.,2
+Michael,I'm disappointed with the results.,0
+Daniel,Every day is a blessing.,1
+Michael,Nothing is going my way.,0
+Alice,I'm in a great mood today.,1
+Michael,Spending time with friends always makes me smile.,1
+Olivia,I'm feeling so happy right now.,1
+Emma,I love this movie enjoying!,1
+Michael,I hate Mondays.,0
+Bob,I accomplished my goals today.,1
+Olivia,I had a great day.,1
+Alice,Just another regular day.,2
+Daniel,I'm upset about what happened.,0
+Michael,I'm surrounded by wonderful people.,1
+Emma,The food at that restaurant was fantastic.,1
+Daniel,The sun is shining grateful!,1
+John,It's a standard day.,2
+Emma,Just another regular day.,2
+Emily,I had a great day.,1
+Michael,I lost my wallet.,0
+John,Just finished my homework.,2
+Michael,I'm so excited about the future.,1
+John,I'm feeling really down today.,0
+Olivia,The movie I watched was alright.,2
+James,This vacation was exactly what I needed.,1
+Michael,Nothing out of the ordinary happened.,2
+Alice,I hate Mondays.,0
+Bob,Every day is a blessing.,1
+Daniel,Nothing out of the ordinary happened.,2
+Bob,I'm feeling indifferent about everything.,2
+Bob,It's a standard day.,2
+Olivia,I'm thinking about what to have for dinner.,2
+Olivia,I have some errands to run.,2
+Bob,I love this movie happy!,1
+Emma,The weather is beautiful today.,1
+James,Nothing special happened today.,2
+John,The weather is beautiful today.,1
+Emily,The sun is shining optimistic!,1
+Alice,I'm in a bad mood.,0
+Emma,Nothing special happened today.,2
+Olivia,I don't have strong feelings either way.,2
+Daniel,I'm feeling really anxious.,0
+Bob,Just finished my homework.,2
+Michael,I'm so stressed out.,0
+Olivia,I love this movie excited!,1
+James,I'm feeling optimistic about everything.,1
+Sophia,I'm feeling really down today.,0
+James,I'm surrounded by wonderful people.,1
+Michael,My car broke down.,0
+Michael,I'm so frustrated right now.,0
+Emma,Nothing out of the ordinary happened.,2
+Alice,Just going through the motions.,2
+Sophia,This vacation was exactly what I needed.,1
+Emily,I'm feeling neither happy nor sad.,2
+Daniel,I'm feeling really anxious.,0
+Emma,I'm feeling sick.,0
+Alice,I'm feeling really anxious.,0
+Emily,This is the worst day ever.,0
+Daniel,I had a great day.,1
+Michael,I lost my wallet.,0
+Bob,I hate Mondays.,0
+John,Just going through the motions.,2
+Emily,I don't have strong feelings either way.,2
+Emma,I'm disappointed with the results.,0
+Alice,The movie I watched was alright.,2
+Olivia,Every day is a blessing.,1
+Bob,Today is neither good nor bad.,2
+John,I'm disappointed with the results.,0
+James,I got promoted at work happy!,1
+James,The sun is shining happy!,1
+Alice,I'm in a bad mood.,0
+Bob,I'm not particularly excited or upset.,2
+Emily,Today was amazing great!,1
+Michael,This vacation was exactly what I needed.,1
+Alice,I'm feeling really anxious.,0
+Olivia,This book is okay.,2
+Alice,I had a terrible day.,0
+Olivia,I'm feeling optimistic about everything.,1
+Emma,I'm upset about what happened.,0
+Emily,Everything is going wrong.,0
+Michael,I'm going to the grocery store.,2
+Emily,Nothing special happened today.,2
+Olivia,I'm not particularly excited or upset.,2
+Emily,The food at that restaurant was fantastic.,1
+Sophia,I'm not particularly excited or upset.,2
+Emily,I'm in a great mood today.,1
+James,I'm not feeling well.,0
+Sophia,Just another regular day.,2
+Alice,I'm neutral about this situation.,2
+James,Life is good fantastic!,1
+James,Nothing special happened today.,2
+John,I'm so excited about the future.,1
+Bob,Today is neither good nor bad.,2
+Alice,I'm so proud of myself.,1
+Bob,I need to do some laundry.,2
+Daniel,I'm feeling indifferent about everything.,2
+Daniel,Life is good beautiful!,1
+Michael,I'm in a great mood today.,1
+Michael,I can't stand this anymore.,0
+Michael,Just going through the motions.,2
+Emily,Today was amazing fantastic!,1
+John,The food at that restaurant was fantastic.,1
+Emily,Just going through the motions.,2
+Emily,Nothing out of the ordinary happened.,2
+John,I'm so grateful for everything.,1
+Olivia,I'm not feeling well.,0
+Michael,I have some errands to run.,2
+James,Nothing special happened today.,2
+Bob,I had a terrible day.,0
+Alice,Today was amazing love!,1
+Emma,Nothing special happened today.,2
+Bob,I'm feeling really down today.,0
+Emma,I'm so tired of this.,0
+Emma,Everything is going wrong.,0
+Daniel,I need to do some laundry.,2
+James,I'm so frustrated right now.,0
+Olivia,I'm disappointed with the results.,0
+Sophia,I got promoted at work beautiful!,1
+Olivia,I'm feeling so happy right now.,1
+Emma,I'm not feeling well.,0
+Alice,This is the worst day ever.,0
+Emma,It's just another typical day.,2
+Alice,I can't stand this anymore.,0
+Alice,The movie I watched was alright.,2
+Daniel,I'm so excited about the future.,1
+Bob,I'm so frustrated right now.,0
+Olivia,Every day is a blessing.,1
+Sophia,This vacation was exactly what I needed.,1
+Olivia,I'm feeling overwhelmed.,0
+Bob,This vacation was exactly what I needed.,1
+Sophia,I had a terrible day.,0
+Alice,I can't stand this anymore.,0
+John,I'm disappointed with the results.,0
+Bob,I had a great day.,1
+Olivia,The food at that restaurant was fantastic.,1
+John,Life is good excited!,1
+Michael,I'm going to the grocery store.,2
+Sophia,Just going through the motions.,2
+Bob,The traffic is terrible.,0
+John,Nothing is going my way.,0
+Emily,This is the worst day ever.,0
+Alice,I'm so frustrated right now.,0
+Emily,The traffic is terrible.,0
+Michael,I'm enjoying every moment.,1
+Michael,I have some errands to run.,2
+Alice,I'm thinking about what to have for dinner.,2
+Daniel,It's just another typical day.,2
+Olivia,I'm so frustrated right now.,0
+Olivia,The movie I watched was alright.,2
+Daniel,I got promoted at work happy!,1
+Emily,Today was amazing beautiful!,1
+James,Today is neither good nor bad.,2
+Daniel,I have some errands to run.,2
+Michael,I'm in a great mood today.,1
+Sophia,I'm so tired of this.,0
+Michael,The sun is shining enjoying!,1
+Olivia,I had a terrible day.,0
+James,I'm feeling really down today.,0
+Sophia,It's raining outside.,2
+Alice,I'm enjoying every moment.,1
+Emily,I'm feeling really anxious.,0
+James,This book is okay.,2
+Daniel,Life is good grateful!,1
+Sophia,I had a great day.,1
+James,I'm in a bad mood.,0
+James,I'm feeling sick.,0
+John,This is the worst day ever.,0
+John,I'm neutral about this situation.,2
+Daniel,Every day is a blessing.,1
+Olivia,I'm feeling optimistic about everything.,1
+Alice,I'm feeling overwhelmed.,0
+Olivia,I had a terrible day.,0
+Michael,Everything is going wrong.,0
+John,The food at that restaurant was fantastic.,1
+Emma,I'm so grateful for everything.,1
+Olivia,I love this movie great!,1
+Sophia,I'm so grateful for everything.,1
+Daniel,I'm feeling overwhelmed.,0
+Olivia,I'm upset about what happened.,0
+Michael,Nothing special happened today.,2
+James,I'm enjoying every moment.,1
+Michael,I'm disappointed with the results.,0
+John,I'm so tired of this.,0
+Sophia,Every day is a blessing.,1
+Emily,I'm in a great mood today.,1
+Alice,Just another regular day.,2
+Olivia,It's just another typical day.,2
+Michael,I'm so grateful for everything.,1
+Emma,I'm in a bad mood.,0
+Olivia,I hate Mondays.,0
+Michael,I hate Mondays.,0
+John,It's raining outside.,2
+Daniel,I'm feeling really down today.,0
+Alice,Nothing is going my way.,0
+Michael,I'm so proud of myself.,1
+John,The weather is beautiful today.,1
+John,I'm going to the grocery store.,2
+James,I'm going to the grocery store.,2
+Michael,I hate Mondays.,0
+Michael,I'm feeling really down today.,0
+Daniel,This vacation was exactly what I needed.,1
+Alice,I had a terrible day.,0
+Bob,Today was amazing fantastic!,1
+Olivia,I had a terrible day.,0
+John,I'm so tired of this.,0
+John,The movie I watched was alright.,2
+Emily,I don't have strong feelings either way.,2
+Bob,I'm not feeling well.,0
+Olivia,Nothing special happened today.,2
+Michael,I hate Mondays.,0
+Emily,I'm feeling indifferent about everything.,2
+Daniel,Everything is going wrong.,0
+Bob,Just going through the motions.,2
+Michael,I'm so proud of myself.,1
+Sophia,Nothing special happened today.,2
+Sophia,I'm going to the grocery store.,2
+Sophia,Nothing is going my way.,0
+Alice,The food at that restaurant was fantastic.,1
+Alice,I'm so excited about the future.,1
+Emily,I'm so proud of myself.,1
+Daniel,I love this movie optimistic!,1
+Michael,It's a standard day.,2
+Bob,This vacation was exactly what I needed.,1
+John,Nothing out of the ordinary happened.,2
+Bob,I'm going to the grocery store.,2
+Olivia,The sun is shining enjoying!,1
+Sophia,Nothing out of the ordinary happened.,2
+Daniel,Nothing is going my way.,0
+John,I'm thinking about what to have for dinner.,2
+James,I'm feeling really down today.,0
+Olivia,I'm in a bad mood.,0
+Emily,Today is neither good nor bad.,2
+John,I'm neutral about this situation.,2
+Daniel,The traffic is terrible.,0
+Emily,I'm feeling so happy right now.,1
+Daniel,Life is good enjoying!,1
+Olivia,Just going through the motions.,2
+Sophia,I'm feeling really down today.,0
+Emma,I got promoted at work excited!,1
+Daniel,I can't stand this anymore.,0
+Michael,I need to do some laundry.,2
+Olivia,Nothing is going my way.,0
+Alice,I'm upset about what happened.,0
+James,Everything is going wrong.,0
+John,I'm so frustrated right now.,0
+Olivia,The traffic is terrible.,0
+James,I'm upset about what happened.,0
+Sophia,I'm disappointed with the results.,0
+John,I don't have strong feelings either way.,2
+Emma,My car broke down.,0
+John,I'm in a bad mood.,0
+Bob,It's raining outside.,2
+Alice,I'm feeling really anxious.,0
+John,I'm so stressed out.,0
+Daniel,I'm feeling overwhelmed.,0
+Bob,I'm feeling sick.,0
+Bob,I'm neutral about this situation.,2
+John,My car broke down.,0
+Bob,This vacation was exactly what I needed.,1
+Bob,I'm so frustrated right now.,0
+Alice,The sun is shining enjoying!,1
+Bob,I'm feeling sick.,0
+Emily,I'm feeling sick.,0
+Emily,Nothing out of the ordinary happened.,2
+James,Spending time with friends always makes me smile.,1
+Daniel,The sun is shining excited!,1
+Alice,Everything is going wrong.,0
+Michael,I love this movie beautiful!,1
+Alice,I'm so grateful for everything.,1
+Bob,It's raining outside.,2
+Emily,I'm in a bad mood.,0
+Alice,I'm so stressed out.,0
+Bob,I'm so excited about the future.,1
+John,Today is neither good nor bad.,2
+Daniel,It's a standard day.,2
+Alice,I'm feeling neither happy nor sad.,2
+Emily,The traffic is terrible.,0
+Alice,I don't have strong feelings either way.,2
+Emily,I'm enjoying every moment.,1
+James,I'm enjoying every moment.,1
+Bob,I'm feeling overwhelmed.,0
+James,The traffic is terrible.,0
+Sophia,Life is good grateful!,1
+James,The sun is shining amazing!,1
+Sophia,I had a great day.,1
+Bob,Just going through the motions.,2
+James,I'm feeling indifferent about everything.,2
+Michael,I'm disappointed with the results.,0
+Olivia,Spending time with friends always makes me smile.,1
+Bob,I'm not particularly excited or upset.,2
+Daniel,It's just another typical day.,2
+Alice,I need to do some laundry.,2
+Michael,I'm feeling sick.,0
+Sophia,I'm in a great mood today.,1
+Bob,The weather is beautiful today.,1
+Emma,Nothing special happened today.,2
+Alice,I hate Mondays.,0
+Daniel,I need to do some laundry.,2
+Emily,I'm in a bad mood.,0
+Emily,I have some errands to run.,2
+Sophia,I'm disappointed with the results.,0
+Olivia,I'm neutral about this situation.,2
+Michael,I'm feeling indifferent about everything.,2
+John,I'm feeling sick.,0
+Bob,I got promoted at work love!,1
+Daniel,I lost my wallet.,0
+John,It's a standard day.,2
+Bob,I'm so stressed out.,0
+Emma,It's a standard day.,2
+Emma,I love this movie great!,1
+John,I love this movie excited!,1
+Emma,Nothing out of the ordinary happened.,2
+Sophia,I'm feeling sick.,0
+Emma,I lost my wallet.,0
+Alice,Nothing special happened today.,2
+Bob,I'm so frustrated right now.,0
+John,I'm feeling optimistic about everything.,1
+Michael,Spending time with friends always makes me smile.,1
+Emma,The traffic is terrible.,0
+James,The traffic is terrible.,0
+John,Just another regular day.,2
+James,Everything is going wrong.,0
+Emily,I hate Mondays.,0
+Daniel,Just another regular day.,2
+Emily,Today is neither good nor bad.,2
+John,I accomplished my goals today.,1
+Olivia,I'm feeling indifferent about everything.,2
+Michael,It's just another typical day.,2
+James,I'm not particularly excited or upset.,2
+Sophia,Today was amazing happy!,1
+John,I had a terrible day.,0
+Bob,Every day is a blessing.,1
+Michael,It's raining outside.,2
+James,Nothing out of the ordinary happened.,2
+Sophia,Today is neither good nor bad.,2
+Alice,It's just another typical day.,2
+Olivia,Everything is going wrong.,0
+Olivia,I'm upset about what happened.,0
+Sophia,This is the worst day ever.,0
+Olivia,I'm disappointed with the results.,0
+James,I'm feeling overwhelmed.,0
+Sophia,I got promoted at work grateful!,1
+Sophia,This is the worst day ever.,0
+Olivia,Spending time with friends always makes me smile.,1
+Bob,Nothing is going my way.,0
+James,Today is neither good nor bad.,2
+Sophia,I got promoted at work great!,1
+James,The traffic is terrible.,0
+Alice,It's a standard day.,2
+John,I'm so grateful for everything.,1
+Emma,I'm feeling sick.,0
+Daniel,The movie I watched was alright.,2
+James,Nothing special happened today.,2
+Olivia,Nothing out of the ordinary happened.,2
+Emma,I hate Mondays.,0
+Daniel,I'm feeling indifferent about everything.,2
+Olivia,I'm neutral about this situation.,2
+Bob,Nothing is going my way.,0
+James,The sun is shining beautiful!,1
+Daniel,I'm so tired of this.,0
+Michael,My car broke down.,0
+Emily,Today was amazing excited!,1
+Michael,I need to do some laundry.,2
+Emma,I lost my wallet.,0
+John,I love this movie love!,1
+Alice,I got promoted at work amazing!,1
+James,Just going through the motions.,2
+Daniel,Nothing out of the ordinary happened.,2
+Olivia,The movie I watched was alright.,2
+Olivia,I'm so frustrated right now.,0
+Olivia,I'm going to the grocery store.,2
+James,I accomplished my goals today.,1
+Bob,I lost my wallet.,0
+James,I'm thinking about what to have for dinner.,2
+James,I'm not feeling well.,0
+John,I'm neutral about this situation.,2
+Bob,Today is neither good nor bad.,2
+Michael,I hate Mondays.,0
+James,I'm surrounded by wonderful people.,1
+James,I'm in a great mood today.,1
+Emma,I'm feeling really anxious.,0
+John,I don't have strong feelings either way.,2
+Daniel,I'm feeling overwhelmed.,0
+Daniel,Life is good happy!,1
+Sophia,I'm in a bad mood.,0
+Alice,I'm upset about what happened.,0
+Daniel,I love this movie amazing!,1
+Bob,I'm feeling overwhelmed.,0
+Alice,Spending time with friends always makes me smile.,1
+Michael,I lost my wallet.,0
+Bob,Spending time with friends always makes me smile.,1
+Alice,I don't have strong feelings either way.,2
+Emily,I have some errands to run.,2
+Daniel,Nothing out of the ordinary happened.,2
+Emily,I got promoted at work beautiful!,1
+Bob,I'm surrounded by wonderful people.,1
+Emma,I'm feeling overwhelmed.,0
+James,Life is good enjoying!,1
+Daniel,I can't stand this anymore.,0
+Bob,I'm feeling neither happy nor sad.,2
+Emily,This book is okay.,2
+Alice,It's raining outside.,2
+James,I'm in a great mood today.,1
+Bob,I lost my wallet.,0
+Alice,I'm not particularly excited or upset.,2
+Emma,Spending time with friends always makes me smile.,1
+Emily,I'm feeling overwhelmed.,0
+John,The movie I watched was alright.,2
+Daniel,I'm not feeling well.,0
+Bob,I can't stand this anymore.,0
+Olivia,This vacation was exactly what I needed.,1
+Emma,Life is good happy!,1
+James,My car broke down.,0
+Emma,It's raining outside.,2
+Alice,Just finished my homework.,2
+Michael,It's just another typical day.,2
+John,The food at that restaurant was fantastic.,1
+Alice,I'm enjoying every moment.,1
+Emily,I'm so proud of myself.,1
+James,My car broke down.,0
+Emily,This book is okay.,2
+John,I'm so proud of myself.,1
+Alice,I can't stand this anymore.,0
+Sophia,I had a terrible day.,0
+John,The traffic is terrible.,0
+Bob,I'm not particularly excited or upset.,2
+Sophia,Nothing is going my way.,0
+Alice,Today is neither good nor bad.,2
+Michael,Every day is a blessing.,1
+Alice,My car broke down.,0
+Olivia,I'm so stressed out.,0
+Michael,This book is okay.,2
+Daniel,The movie I watched was alright.,2
+Sophia,I'm neutral about this situation.,2
+Emily,I'm feeling indifferent about everything.,2
+John,I'm so tired of this.,0
+Daniel,I had a great day.,1
+Emily,I had a great day.,1
+Emma,I'm feeling so happy right now.,1
+Sophia,It's just another typical day.,2
+Olivia,I'm so stressed out.,0
+Michael,This book is okay.,2
+Daniel,I'm neutral about this situation.,2
+Bob,Spending time with friends always makes me smile.,1
+James,My car broke down.,0
+Emma,I'm thinking about what to have for dinner.,2
+Michael,I love this movie amazing!,1
+James,This book is okay.,2
+Alice,My car broke down.,0
+Michael,I'm feeling neither happy nor sad.,2
+Emily,I'm not feeling well.,0
+Sophia,I'm so frustrated right now.,0
+Alice,I had a great day.,1
+Olivia,I'm feeling indifferent about everything.,2
+John,The weather is beautiful today.,1
+James,I had a terrible day.,0
+Alice,I'm feeling really anxious.,0
+Olivia,This book is okay.,2
+Bob,I'm not feeling well.,0
+Michael,It's just another typical day.,2
+Daniel,I'm feeling optimistic about everything.,1
+Emma,I'm not feeling well.,0
+Olivia,I'm so grateful for everything.,1
+Emma,The weather is beautiful today.,1
+John,I'm so stressed out.,0
+James,This is the worst day ever.,0
+Olivia,Everything is going wrong.,0
+Alice,This vacation was exactly what I needed.,1
+Emma,Just another regular day.,2
+John,It's raining outside.,2
+John,I'm surrounded by wonderful people.,1
+Michael,Spending time with friends always makes me smile.,1
+Emma,The food at that restaurant was fantastic.,1
+Daniel,Just going through the motions.,2
+Michael,I have some errands to run.,2
+Daniel,I'm so proud of myself.,1
+Emma,I need to do some laundry.,2
+Daniel,I'm surrounded by wonderful people.,1
+Daniel,Life is good optimistic!,1
+Sophia,I'm in a bad mood.,0
+Sophia,My car broke down.,0
+Sophia,I'm so grateful for everything.,1
+Michael,This vacation was exactly what I needed.,1
+Emma,I'm going to the grocery store.,2
+Michael,This book is okay.,2
+Sophia,The weather is beautiful today.,1
+Emily,I'm in a great mood today.,1
+Emma,I'm so proud of myself.,1
+Alice,I need to do some laundry.,2
+Bob,I'm feeling overwhelmed.,0
+Daniel,It's just another typical day.,2
+Emily,The food at that restaurant was fantastic.,1
+Alice,Every day is a blessing.,1
+James,I'm feeling really down today.,0
+Sophia,I'm in a great mood today.,1
+Michael,It's a standard day.,2
+Sophia,I'm feeling neither happy nor sad.,2
+James,I'm so tired of this.,0
+Bob,Today is neither good nor bad.,2
+John,I'm so proud of myself.,1
+Bob,I'm feeling sick.,0
+Sophia,I can't stand this anymore.,0
+Daniel,Spending time with friends always makes me smile.,1
+Emily,This vacation was exactly what I needed.,1
+Michael,I'm so grateful for everything.,1
+Emily,This book is okay.,2
+Olivia,The weather is beautiful today.,1
+Alice,I'm so tired of this.,0
+Bob,Nothing special happened today.,2
+John,I'm feeling so happy right now.,1
+Emily,This book is okay.,2
+Emily,I'm so stressed out.,0
+Bob,Nothing out of the ordinary happened.,2
+Michael,I'm so proud of myself.,1
+Bob,I'm so stressed out.,0
+Michael,I hate Mondays.,0
+Michael,The movie I watched was alright.,2
+Alice,I'm disappointed with the results.,0
+John,I'm feeling really anxious.,0
+Bob,I'm upset about what happened.,0
+Daniel,I got promoted at work grateful!,1
+James,Spending time with friends always makes me smile.,1
+Emma,I'm feeling so happy right now.,1
+Bob,I'm so excited about the future.,1
+Emma,The traffic is terrible.,0
+Olivia,I'm disappointed with the results.,0
+Sophia,It's just another typical day.,2
+Emily,Just going through the motions.,2
+Alice,Nothing special happened today.,2
+Bob,I accomplished my goals today.,1
+Bob,Everything is going wrong.,0
+Bob,I'm feeling really anxious.,0
+John,I'm upset about what happened.,0
+James,It's raining outside.,2
+James,It's just another typical day.,2
+Michael,This book is okay.,2
+Daniel,The weather is beautiful today.,1
+Emily,I accomplished my goals today.,1
+Bob,This is the worst day ever.,0
+Emily,I need to do some laundry.,2
+Daniel,Everything is going wrong.,0
+Olivia,I'm feeling optimistic about everything.,1
+James,I need to do some laundry.,2
+Emma,It's raining outside.,2
+Michael,Nothing is going my way.,0
+Olivia,I'm enjoying every moment.,1
+Olivia,My car broke down.,0
+Alice,I'm in a great mood today.,1
+Sophia,It's a standard day.,2
+Sophia,I'm feeling sick.,0
+Sophia,I'm enjoying every moment.,1
+Daniel,This book is okay.,2
+Alice,I'm not particularly excited or upset.,2
+Emily,I can't stand this anymore.,0
+James,I'm not feeling well.,0
+Bob,I'm surrounded by wonderful people.,1
+Emma,I'm feeling really down today.,0
+Alice,I need to do some laundry.,2
+James,I don't have strong feelings either way.,2
+Emma,I'm not feeling well.,0
+Emma,I'm so excited about the future.,1
+Michael,The food at that restaurant was fantastic.,1
+Daniel,I need to do some laundry.,2
+Daniel,I'm surrounded by wonderful people.,1
+Sophia,I don't have strong feelings either way.,2
+Olivia,I'm feeling neither happy nor sad.,2
+Daniel,This book is okay.,2
+Sophia,I'm so tired of this.,0
+Emily,It's a standard day.,2
+Olivia,I'm feeling so happy right now.,1
+Sophia,I'm in a bad mood.,0
+James,I'm neutral about this situation.,2
+John,The traffic is terrible.,0
+John,Nothing special happened today.,2
+Emma,I accomplished my goals today.,1
+Daniel,Life is good optimistic!,1
+Alice,I love this movie love!,1
+Daniel,Just another regular day.,2
+Sophia,It's a standard day.,2
+Alice,Everything is going wrong.,0
+Emma,I got promoted at work great!,1
+James,Just another regular day.,2
+Bob,It's a standard day.,2
+James,I'm feeling really down today.,0
+Alice,I'm feeling indifferent about everything.,2
+Bob,I'm so proud of myself.,1
+Emma,Spending time with friends always makes me smile.,1
+Bob,I'm feeling neither happy nor sad.,2
+Emily,The weather is beautiful today.,1
+Sophia,I'm so frustrated right now.,0
+Daniel,I'm upset about what happened.,0
+Bob,I'm so frustrated right now.,0
+Emily,Just going through the motions.,2
+John,Nothing is going my way.,0
+John,I'm enjoying every moment.,1
+Emily,Today was amazing great!,1
+Emma,Every day is a blessing.,1
+James,The sun is shining excited!,1
+Michael,I lost my wallet.,0
+Michael,I'm in a bad mood.,0
+Alice,Nothing out of the ordinary happened.,2
+Michael,I'm so proud of myself.,1
+Emma,Every day is a blessing.,1
+James,I got promoted at work optimistic!,1
+John,I'm surrounded by wonderful people.,1
+Michael,This book is okay.,2
+James,Spending time with friends always makes me smile.,1
+Daniel,It's just another typical day.,2
+Olivia,I'm not particularly excited or upset.,2
+Daniel,I had a great day.,1
+Olivia,I'm feeling really down today.,0
+James,I'm feeling overwhelmed.,0
+Olivia,The movie I watched was alright.,2
+Sophia,My car broke down.,0
+Olivia,I had a great day.,1
+Sophia,Spending time with friends always makes me smile.,1
+Michael,I'm going to the grocery store.,2
+Olivia,I lost my wallet.,0
+Olivia,I'm going to the grocery store.,2
+Emma,Just finished my homework.,2
+Daniel,I'm not feeling well.,0
+Bob,I'm so proud of myself.,1
+Alice,It's a standard day.,2
+Emma,I hate Mondays.,0
+Olivia,I can't stand this anymore.,0
+Emily,I'm so grateful for everything.,1
+Michael,I don't have strong feelings either way.,2
+Olivia,I'm in a bad mood.,0
+John,I'm feeling indifferent about everything.,2
+John,My car broke down.,0
+Sophia,I'm upset about what happened.,0
+Michael,The sun is shining amazing!,1
+Emma,Just finished my homework.,2
+Daniel,My car broke down.,0
+Bob,I had a great day.,1
+Emma,I'm not particularly excited or upset.,2
+Alice,Just another regular day.,2
+Alice,I don't have strong feelings either way.,2
+Daniel,This book is okay.,2
+Alice,Today was amazing grateful!,1
+Olivia,I need to do some laundry.,2
+Bob,I'm disappointed with the results.,0
+Emma,I'm going to the grocery store.,2
+Sophia,I'm thinking about what to have for dinner.,2
+Olivia,I'm not feeling well.,0
+Daniel,I'm feeling optimistic about everything.,1
+Emily,Spending time with friends always makes me smile.,1
+Emma,I'm surrounded by wonderful people.,1
+Olivia,I'm so excited about the future.,1
+Emma,I accomplished my goals today.,1
+Sophia,I had a terrible day.,0
+Alice,I'm surrounded by wonderful people.,1
+Daniel,I lost my wallet.,0
+John,I'm thinking about what to have for dinner.,2
+Emma,Every day is a blessing.,1
+Michael,Just another regular day.,2
+Olivia,Everything is going wrong.,0
+Olivia,I'm surrounded by wonderful people.,1
+Bob,I love this movie happy!,1
+Sophia,The movie I watched was alright.,2
+Olivia,I'm feeling sick.,0
+Bob,The food at that restaurant was fantastic.,1
+John,Every day is a blessing.,1
+Michael,I hate Mondays.,0
+John,Today is neither good nor bad.,2
+Emily,Every day is a blessing.,1
+Bob,I'm upset about what happened.,0
+Michael,I'm so grateful for everything.,1
+Emily,Just finished my homework.,2
+John,The traffic is terrible.,0
+Emily,I love this movie happy!,1
+Olivia,I'm so proud of myself.,1
+Michael,The weather is beautiful today.,1
+Emma,It's raining outside.,2
+Daniel,I'm so grateful for everything.,1
+John,I'm so tired of this.,0
+Alice,This book is okay.,2
+Bob,I'm in a great mood today.,1
+Emma,I had a great day.,1
+Sophia,I'm going to the grocery store.,2
+Olivia,Nothing special happened today.,2
+Sophia,I'm not feeling well.,0
+Olivia,This is the worst day ever.,0
+Bob,I'm so grateful for everything.,1
+Bob,Spending time with friends always makes me smile.,1
+Bob,I'm feeling so happy right now.,1
+Sophia,I'm neutral about this situation.,2
+Olivia,The movie I watched was alright.,2
+Alice,I'm feeling really down today.,0
+Emily,I'm in a great mood today.,1
+Olivia,I'm upset about what happened.,0
+Olivia,I'm so tired of this.,0
+Emma,Life is good grateful!,1
+John,I had a great day.,1
+Emma,I'm disappointed with the results.,0
+James,I'm not particularly excited or upset.,2
+Olivia,I'm upset about what happened.,0
+Sophia,This is the worst day ever.,0
+Alice,I'm so grateful for everything.,1
+Michael,The sun is shining happy!,1
+Alice,I need to do some laundry.,2
+Alice,I'm so proud of myself.,1
+Emma,This is the worst day ever.,0
+Daniel,I accomplished my goals today.,1
+James,I'm thinking about what to have for dinner.,2
+Emma,I'm so tired of this.,0
+John,Just finished my homework.,2
+John,I'm feeling really anxious.,0
+James,It's raining outside.,2
+Michael,The movie I watched was alright.,2
+Emma,I'm so frustrated right now.,0
+Daniel,Nothing out of the ordinary happened.,2
+Sophia,I'm in a great mood today.,1
+Daniel,Nothing out of the ordinary happened.,2
+Emily,I'm disappointed with the results.,0
+Michael,This is the worst day ever.,0
+Michael,I'm feeling indifferent about everything.,2
+Olivia,I'm so frustrated right now.,0
+Olivia,I'm so tired of this.,0
+James,Today was amazing fantastic!,1
+James,I'm feeling indifferent about everything.,2
+Emma,The weather is beautiful today.,1
+Bob,I'm so excited about the future.,1
+Emma,I can't stand this anymore.,0
+Emily,I had a terrible day.,0
+Alice,I'm thinking about what to have for dinner.,2
+James,This is the worst day ever.,0
+Bob,I accomplished my goals today.,1
+Olivia,This is the worst day ever.,0
+Emma,I don't have strong feelings either way.,2
+Emily,The weather is beautiful today.,1
+John,I'm so grateful for everything.,1
+Sophia,Just going through the motions.,2
+Olivia,I'm thinking about what to have for dinner.,2
+Emily,I'm feeling neither happy nor sad.,2
+Sophia,Just going through the motions.,2
+Olivia,Everything is going wrong.,0
+Daniel,I'm so grateful for everything.,1
+Michael,I'm feeling really anxious.,0
+Emma,I'm enjoying every moment.,1
+Michael,This vacation was exactly what I needed.,1
+John,I'm so tired of this.,0
+Emma,I had a terrible day.,0
+Michael,Nothing is going my way.,0
+Alice,I'm enjoying every moment.,1
+Bob,I don't have strong feelings either way.,2
+John,I accomplished my goals today.,1
+Alice,I can't stand this anymore.,0
+Emily,I'm neutral about this situation.,2
+James,Today was amazing fantastic!,1
+Olivia,The movie I watched was alright.,2
+Bob,I had a great day.,1
+Sophia,I'm feeling indifferent about everything.,2
+Daniel,Today is neither good nor bad.,2
+Daniel,I accomplished my goals today.,1
+John,I'm so grateful for everything.,1
+John,I don't have strong feelings either way.,2
+Daniel,I'm so excited about the future.,1
+Emma,It's just another typical day.,2
+James,I'm so proud of myself.,1
+Alice,I have some errands to run.,2
+Emma,I'm not particularly excited or upset.,2
+John,Life is good enjoying!,1
+Emma,The movie I watched was alright.,2
+Sophia,I'm feeling so happy right now.,1
+James,I lost my wallet.,0
+Alice,Today is neither good nor bad.,2
+Olivia,This is the worst day ever.,0
+Emily,I'm not feeling well.,0
+Daniel,The food at that restaurant was fantastic.,1
+Alice,The food at that restaurant was fantastic.,1
+Sophia,I'm thinking about what to have for dinner.,2
+Daniel,I'm so excited about the future.,1
+Emily,I lost my wallet.,0
+Michael,It's raining outside.,2
+John,I'm upset about what happened.,0
+Bob,I'm feeling really anxious.,0
+Bob,Just going through the motions.,2
+Sophia,Just another regular day.,2
+Daniel,I'm so grateful for everything.,1
+Olivia,It's a standard day.,2
+Olivia,Just finished my homework.,2
+Emily,The food at that restaurant was fantastic.,1
+Bob,I'm going to the grocery store.,2
+Emily,I can't stand this anymore.,0
+Emma,Nothing special happened today.,2
+James,It's a standard day.,2
+Michael,I'm feeling so happy right now.,1
+Alice,I'm not feeling well.,0
+Emma,I had a great day.,1
+Emily,My car broke down.,0
+Emma,I'm feeling overwhelmed.,0
+Olivia,My car broke down.,0
+James,I have some errands to run.,2
+John,The traffic is terrible.,0
+Alice,I'm not feeling well.,0
+James,I'm enjoying every moment.,1
+Emily,Just another regular day.,2
+Emily,I accomplished my goals today.,1
+Emma,I'm so excited about the future.,1
+Emma,Nothing is going my way.,0
+Alice,Just another regular day.,2
+James,I need to do some laundry.,2
+Bob,I'm upset about what happened.,0
+Emily,Everything is going wrong.,0
+Emma,I'm so excited about the future.,1
+Daniel,I'm feeling optimistic about everything.,1
+Emma,I'm thinking about what to have for dinner.,2
+Daniel,I lost my wallet.,0
+Bob,I'm so frustrated right now.,0
+Daniel,Today is neither good nor bad.,2
+Olivia,I'm so proud of myself.,1
+Emma,Just finished my homework.,2
+John,Life is good excited!,1
+Emily,I'm feeling optimistic about everything.,1
+James,I'm feeling so happy right now.,1
+Emma,It's just another typical day.,2
+Daniel,I'm so stressed out.,0
+Olivia,It's a standard day.,2
+Sophia,Just finished my homework.,2
+John,I'm so stressed out.,0
+Alice,I'm so stressed out.,0
+Alice,I don't have strong feelings either way.,2
+Michael,It's raining outside.,2
+Alice,The weather is beautiful today.,1
+Daniel,I don't have strong feelings either way.,2
+James,I'm neutral about this situation.,2
+Michael,Every day is a blessing.,1
+Daniel,I'm going to the grocery store.,2
+Emma,I had a great day.,1
+Olivia,I have some errands to run.,2
+Bob,I'm feeling so happy right now.,1
+Bob,This is the worst day ever.,0
+Bob,I'm upset about what happened.,0
+Emily,I got promoted at work fantastic!,1
+Michael,I hate Mondays.,0
+Michael,I'm enjoying every moment.,1
+Alice,Nothing is going my way.,0
+Emily,Every day is a blessing.,1
+Michael,Just finished my homework.,2
+Olivia,I'm so tired of this.,0
+James,Just another regular day.,2
+Sophia,I'm neutral about this situation.,2
+Bob,I'm feeling so happy right now.,1
+Emma,I'm feeling optimistic about everything.,1
+Olivia,I'm so excited about the future.,1
+Olivia,I'm in a great mood today.,1
+James,I accomplished my goals today.,1
+Olivia,I hate Mondays.,0
+John,I'm so tired of this.,0
+Emily,I'm so tired of this.,0
+James,I can't stand this anymore.,0
+Emily,Today was amazing beautiful!,1
+John,Life is good great!,1
+Michael,It's raining outside.,2
+John,I hate Mondays.,0
+Bob,I'm feeling so happy right now.,1
+John,Today is neither good nor bad.,2
+John,I'm neutral about this situation.,2
+James,I'm thinking about what to have for dinner.,2
+Emily,Today was amazing happy!,1
+James,This vacation was exactly what I needed.,1
+Bob,I'm feeling so happy right now.,1
+Emma,I hate Mondays.,0
+Alice,The weather is beautiful today.,1
+Michael,Nothing special happened today.,2
+Sophia,I lost my wallet.,0
+James,I'm feeling overwhelmed.,0
+Bob,I'm neutral about this situation.,2
+Bob,I'm upset about what happened.,0
+Emma,Spending time with friends always makes me smile.,1
+Alice,This book is okay.,2
+Sophia,This book is okay.,2
+Emma,I can't stand this anymore.,0
+Alice,It's a standard day.,2
+Michael,The traffic is terrible.,0
+James,I'm feeling indifferent about everything.,2
+Michael,I'm feeling overwhelmed.,0
+Daniel,I'm thinking about what to have for dinner.,2
+Bob,The traffic is terrible.,0
+James,I had a terrible day.,0
+James,Just finished my homework.,2
+Emily,I got promoted at work excited!,1
+Michael,I'm feeling really down today.,0
+Emma,I love this movie fantastic!,1
+Daniel,I accomplished my goals today.,1
+Olivia,I'm feeling optimistic about everything.,1
+Alice,I accomplished my goals today.,1
+Olivia,I'm going to the grocery store.,2
+Bob,I'm so stressed out.,0
+Olivia,The weather is beautiful today.,1
+Sophia,I'm feeling overwhelmed.,0
+Bob,I have some errands to run.,2
+Michael,Just another regular day.,2
+Emma,This vacation was exactly what I needed.,1
+Daniel,I'm so stressed out.,0
+Alice,Today was amazing love!,1
+Olivia,I'm so proud of myself.,1
+Emily,It's a standard day.,2
+Daniel,I'm so tired of this.,0
+Bob,Spending time with friends always makes me smile.,1
+Daniel,I can't stand this anymore.,0
+Bob,I'm surrounded by wonderful people.,1
+Bob,I have some errands to run.,2
+Emily,I'm so tired of this.,0
+Emily,Every day is a blessing.,1
+Michael,I'm not feeling well.,0
+John,I'm feeling really down today.,0
+Emily,I'm thinking about what to have for dinner.,2
+Sophia,I'm surrounded by wonderful people.,1
+Alice,I'm enjoying every moment.,1
+John,I'm so excited about the future.,1
+Michael,Nothing is going my way.,0
+Daniel,The weather is beautiful today.,1
+Bob,I'm so stressed out.,0
+Bob,The sun is shining happy!,1
+Michael,The movie I watched was alright.,2
+Olivia,I'm feeling neither happy nor sad.,2
+John,Nothing is going my way.,0
+Olivia,I'm feeling optimistic about everything.,1
+John,I'm feeling really anxious.,0
+Emily,Life is good beautiful!,1
+Alice,I accomplished my goals today.,1
+Sophia,It's a standard day.,2
+Olivia,I'm feeling so happy right now.,1
+Alice,I love this movie grateful!,1
+James,I'm feeling sick.,0
+Michael,The movie I watched was alright.,2
+Sophia,I had a great day.,1
+Alice,The traffic is terrible.,0
+James,Just going through the motions.,2
+John,Nothing is going my way.,0
+John,I'm thinking about what to have for dinner.,2
+Alice,The weather is beautiful today.,1
+Bob,It's just another typical day.,2
+Emily,I'm feeling sick.,0
+Michael,I'm feeling overwhelmed.,0
+Emily,The movie I watched was alright.,2
+Alice,I'm in a bad mood.,0
+Sophia,I'm feeling really down today.,0
+Emily,I'm feeling really anxious.,0
+Bob,Nothing special happened today.,2
+Daniel,Everything is going wrong.,0
+John,I'm so excited about the future.,1
+Alice,This is the worst day ever.,0
+Michael,I accomplished my goals today.,1
+Olivia,The sun is shining beautiful!,1
+Sophia,I'm in a great mood today.,1
+Michael,Everything is going wrong.,0
+Olivia,I'm surrounded by wonderful people.,1
+Olivia,I'm so stressed out.,0
+John,Life is good grateful!,1
+Sophia,Life is good happy!,1
+Daniel,I'm feeling so happy right now.,1
+Sophia,This is the worst day ever.,0
+James,I can't stand this anymore.,0
+Alice,I need to do some laundry.,2
+James,The food at that restaurant was fantastic.,1
+Emma,I'm so excited about the future.,1
+James,I had a terrible day.,0
+Michael,I'm not particularly excited or upset.,2
+John,I had a great day.,1
+John,I love this movie grateful!,1
+Bob,I have some errands to run.,2
+Olivia,My car broke down.,0
+Emily,I'm so frustrated right now.,0
+Emily,I'm disappointed with the results.,0
+Olivia,I'm in a bad mood.,0
+Alice,I'm not particularly excited or upset.,2
+James,Just going through the motions.,2
+Bob,The traffic is terrible.,0
+Michael,I had a terrible day.,0
+Emma,I can't stand this anymore.,0
+Sophia,I'm going to the grocery store.,2
+John,I had a great day.,1
+Bob,I'm feeling indifferent about everything.,2
+Olivia,I'm feeling really down today.,0
+Daniel,It's just another typical day.,2
+Emily,I need to do some laundry.,2
+Bob,It's raining outside.,2
+Michael,I'm enjoying every moment.,1
+Sophia,Nothing out of the ordinary happened.,2
+James,I'm not particularly excited or upset.,2
+James,I'm feeling really anxious.,0
+Alice,I accomplished my goals today.,1
+John,The food at that restaurant was fantastic.,1
+James,I'm in a bad mood.,0
+James,I lost my wallet.,0
+Alice,I got promoted at work enjoying!,1
+John,I'm feeling so happy right now.,1
+Daniel,I'm not particularly excited or upset.,2
+Daniel,It's just another typical day.,2
+Emily,I'm feeling neither happy nor sad.,2
+Emma,I'm upset about what happened.,0
+Michael,Today is neither good nor bad.,2
+John,I'm not particularly excited or upset.,2
+Emma,I'm feeling optimistic about everything.,1
+John,I accomplished my goals today.,1
+John,I'm feeling optimistic about everything.,1
+Daniel,I need to do some laundry.,2
+Sophia,I'm feeling neither happy nor sad.,2
+Michael,I'm feeling really anxious.,0
+Bob,I got promoted at work optimistic!,1
+Olivia,This vacation was exactly what I needed.,1
+Michael,I need to do some laundry.,2
+John,Just finished my homework.,2
+Emma,I'm so frustrated right now.,0
+Alice,I'm feeling sick.,0
+Alice,I lost my wallet.,0
+Olivia,I'm feeling neither happy nor sad.,2
+Bob,I got promoted at work great!,1
+Emily,Just another regular day.,2
+Daniel,I have some errands to run.,2
+Olivia,I had a terrible day.,0
+James,The food at that restaurant was fantastic.,1
+Daniel,The food at that restaurant was fantastic.,1
+Sophia,This vacation was exactly what I needed.,1
+Emily,I'm so stressed out.,0
+Alice,Every day is a blessing.,1
+Daniel,I lost my wallet.,0
+John,I have some errands to run.,2
+Olivia,I don't have strong feelings either way.,2
+Sophia,I'm feeling really down today.,0
+Michael,My car broke down.,0
+Olivia,Everything is going wrong.,0
+Alice,I'm in a bad mood.,0
+Bob,This vacation was exactly what I needed.,1
+Bob,Spending time with friends always makes me smile.,1
+Sophia,The sun is shining optimistic!,1
+Olivia,I'm going to the grocery store.,2
+Emma,I'm so stressed out.,0
+Emily,I'm thinking about what to have for dinner.,2
+Emily,I'm feeling neither happy nor sad.,2
+Daniel,The traffic is terrible.,0
+Emma,It's raining outside.,2
+Emily,I'm feeling indifferent about everything.,2
+Sophia,I'm feeling sick.,0
+Olivia,I have some errands to run.,2
+James,I have some errands to run.,2
+Daniel,I'm feeling indifferent about everything.,2
+Emma,It's just another typical day.,2
+Emily,I have some errands to run.,2
+Olivia,Just finished my homework.,2
+Bob,I'm so grateful for everything.,1
+Alice,I'm disappointed with the results.,0
+John,Today was amazing grateful!,1
+Emily,I'm surrounded by wonderful people.,1
+Bob,Just going through the motions.,2
+John,I'm thinking about what to have for dinner.,2
+Emma,I'm in a great mood today.,1
+Daniel,Today was amazing optimistic!,1
+Daniel,I'm going to the grocery store.,2
+Olivia,I got promoted at work optimistic!,1
+Sophia,The sun is shining happy!,1
+Alice,Today was amazing excited!,1
+Daniel,This is the worst day ever.,0
+John,I lost my wallet.,0
+Michael,I'm upset about what happened.,0
+Sophia,I'm in a bad mood.,0
+James,I'm neutral about this situation.,2
+Emily,I'm not feeling well.,0
+Sophia,I'm enjoying every moment.,1
+Daniel,Nothing is going my way.,0
+Daniel,I have some errands to run.,2
+Sophia,I'm surrounded by wonderful people.,1
+Emma,I'm feeling sick.,0
+John,The food at that restaurant was fantastic.,1
+Emily,I'm in a bad mood.,0
+James,I'm not particularly excited or upset.,2
+Alice,I'm neutral about this situation.,2
+Michael,Just finished my homework.,2
+John,Just another regular day.,2
+Daniel,I can't stand this anymore.,0
+Daniel,Nothing out of the ordinary happened.,2
+Bob,Nothing is going my way.,0
+Emily,Nothing is going my way.,0
+James,I'm enjoying every moment.,1
+Emily,Just finished my homework.,2
+Emily,I'm so excited about the future.,1
+Olivia,The sun is shining excited!,1
+Olivia,I'm neutral about this situation.,2
+Daniel,Nothing special happened today.,2
+Bob,I'm thinking about what to have for dinner.,2
+James,I'm feeling indifferent about everything.,2
+Daniel,The sun is shining grateful!,1
+Olivia,I'm feeling neither happy nor sad.,2
+Olivia,I'm disappointed with the results.,0
+Olivia,I'm in a great mood today.,1
+Daniel,I got promoted at work enjoying!,1
+John,Every day is a blessing.,1
+Daniel,I'm surrounded by wonderful people.,1
+Emily,I'm going to the grocery store.,2
+Bob,The weather is beautiful today.,1
+Daniel,I'm so excited about the future.,1
+Olivia,Everything is going wrong.,0
+Sophia,I'm feeling neither happy nor sad.,2
+John,I'm surrounded by wonderful people.,1
+Emma,I'm enjoying every moment.,1
+Bob,This book is okay.,2
+Emma,I'm so frustrated right now.,0
+Alice,Nothing out of the ordinary happened.,2
+Sophia,The movie I watched was alright.,2
+John,Just finished my homework.,2
+Sophia,The sun is shining optimistic!,1
+Emily,It's raining outside.,2
+Olivia,I'm neutral about this situation.,2
+Emma,I had a terrible day.,0
+James,I'm so tired of this.,0
+John,I'm so frustrated right now.,0
+Olivia,I'm so proud of myself.,1
+Bob,I'm thinking about what to have for dinner.,2
+Sophia,I lost my wallet.,0
+Olivia,I'm so stressed out.,0
+Michael,I love this movie love!,1
+John,I love this movie great!,1
+Emma,Today is neither good nor bad.,2
+Michael,I'm not particularly excited or upset.,2
+Daniel,Today was amazing enjoying!,1
+Alice,Just finished my homework.,2
+Emily,The traffic is terrible.,0
+John,I'm so grateful for everything.,1
+Michael,I'm in a great mood today.,1
+Bob,I'm in a great mood today.,1
+Daniel,I'm feeling optimistic about everything.,1
+Alice,I'm not particularly excited or upset.,2
+Emma,Just going through the motions.,2
+Daniel,I'm so stressed out.,0
+Bob,I'm feeling really anxious.,0
+Michael,I'm feeling optimistic about everything.,1
+Michael,I don't have strong feelings either way.,2
+John,Today is neither good nor bad.,2
+Emma,My car broke down.,0
+Daniel,This vacation was exactly what I needed.,1
+Emily,I'm feeling overwhelmed.,0
+Alice,I have some errands to run.,2
+Michael,It's raining outside.,2
+Emma,I'm feeling optimistic about everything.,1
+Daniel,The weather is beautiful today.,1
+Alice,Just finished my homework.,2
+Daniel,I'm not feeling well.,0
+Michael,I'm surrounded by wonderful people.,1
+Michael,I accomplished my goals today.,1
+Daniel,I'm so proud of myself.,1
+John,I'm feeling really down today.,0
+Daniel,I'm so excited about the future.,1
+Emily,I'm feeling so happy right now.,1
+Alice,Today was amazing fantastic!,1
+Daniel,I'm feeling neither happy nor sad.,2
+Daniel,I'm feeling optimistic about everything.,1
+John,Everything is going wrong.,0
+Michael,I don't have strong feelings either way.,2
+Sophia,Just finished my homework.,2
+Emily,Just another regular day.,2
+Emma,Nothing out of the ordinary happened.,2
+Olivia,The sun is shining love!,1
+Michael,I'm feeling optimistic about everything.,1
+Olivia,I'm feeling overwhelmed.,0
+Michael,Today was amazing beautiful!,1
+John,I hate Mondays.,0
+Emily,This is the worst day ever.,0
+Michael,I'm feeling indifferent about everything.,2
+Emma,I'm so frustrated right now.,0
+Alice,Just another regular day.,2
+Alice,I'm disappointed with the results.,0
+Alice,I'm feeling really down today.,0
+Olivia,My car broke down.,0
+Bob,I love this movie optimistic!,1
+Daniel,I had a terrible day.,0
+Sophia,Life is good amazing!,1
+Emily,I can't stand this anymore.,0
+Olivia,I hate Mondays.,0
+Daniel,Every day is a blessing.,1
+Michael,I need to do some laundry.,2

@@ -1,0 +1,16 @@
+Text: mad
+
+Sentiment: 2
+
+Text: good
+Sentiment: 1
+
+Text: better
+Sentiment: 2
+
+Text: artharva
+Sentiment: 2
+
+Text: ndd
+Sentiment: 2
+
